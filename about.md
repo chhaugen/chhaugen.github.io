@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! Thought I'd create this blog for writing down my findings throughout my tech adventures. As I'm doing a tech projects, I find myself wanting to write down my new learned information somwehere. This is hopefully that somewhere. 
+Hi! Thought I'd create this blog for writing down my findings throughout my tech adventures. As I'm doing a tech projects, I find myself wanting to write down my newly learned information somewhere. This is hopefully that somewhere. 
 
 <!---### More Information
 
