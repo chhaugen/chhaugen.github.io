@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! Thought I'd create this blog for writing down my findings throughout my tech adventures. As I'm doing a tech projects, I find myself wanting to write down my new learned information somwehere. This is hopefully that somewhere. 
 
-### More Information
+<!---### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:email@domain.com)--->
